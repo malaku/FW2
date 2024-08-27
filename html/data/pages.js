@@ -1,0 +1,1 @@
+var reportPages = [["Summary","FW2_survey.html"],["Subsystem Report","FW2_subsystems.html"],["Code Interface Report","FW2_interface.html"],["Traceability Report","FW2_trace.html"],["Static Code Metrics Report","FW2_metrics.html"],["Eliminated Blocks","FW2_reducedblocks.html"],["Code Replacements Report","FW2_replacements.html"],["Coder Assumptions","FW2_coderassumptions.html"]];

@@ -1,0 +1,19 @@
+FW2_data.c.o: C:/Users/16134/Desktop/masters/Model/FW2_ert_rtw/FW2_data.c \
+ C:/Users/16134/Desktop/masters/Model/FW2_ert_rtw/FW2.h \
+ C:/Users/16134/Desktop/masters/Model/FW2_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2022a/simulink/include/rtw_continuous.h \
+ C:/Users/16134/Desktop/masters/Model/FW2_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2022a/simulink/include/rtw_solver.h \
+ C:/PROGRA~1/MATLAB/R2022a/simulink/include/rtw_continuous.h
+
+C:/Users/16134/Desktop/masters/Model/FW2_ert_rtw/FW2.h:
+
+C:/Users/16134/Desktop/masters/Model/FW2_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2022a/simulink/include/rtw_continuous.h:
+
+C:/Users/16134/Desktop/masters/Model/FW2_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2022a/simulink/include/rtw_solver.h:
+
+C:/PROGRA~1/MATLAB/R2022a/simulink/include/rtw_continuous.h:
